@@ -18,3 +18,4 @@ module.exports = {
     Module:cmd,
     commands,
 };
+zT520TLZ#LNlRK6yln7m8P5dVwPB-l3RtpMVqiigHkWRsarHp_AE
